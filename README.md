@@ -1,4 +1,4 @@
-# Ponteiros em C — Atividades Práticas
+# Ponteiros em C — Atividade Somativa EXTRA
 
 Resolução das 5 atividades da disciplina, cobrindo ponteiros, passagem por referência, structs, aritmética de ponteiros e alocação dinâmica de memória.
 
